@@ -1,0 +1,11 @@
+{
+  "display_name": "Character Management",
+  "loading_order": 1,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "drago87",
+  "version": "1.0.0",
+  "homePage": "https://github.com/your/plugin",
+  "auto_update": true
+}
