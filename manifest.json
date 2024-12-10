@@ -6,6 +6,6 @@
   "js": "index.js",
   "author": "drago87",
   "version": "1.0.0",
-  "homePage": "https://github.com/your/plugin",
-  "auto_update": true
+  "homePage": "https://github.com/drago87/SillyTavern-CharacterManagement",
+  "auto_update": false
 }
