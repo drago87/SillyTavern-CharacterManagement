@@ -21,6 +21,7 @@ SlashCommandParser.addCommandObject(SlashCommand.fromProps({
             isRequired: true,
         }),
     ],
+    returns: 'Returns the uniqueName',
     helpString: `
         <div>
             Creates a new character with the specified name.
