@@ -93,7 +93,7 @@ SlashCommandParser.addCommandObject(SlashCommand.fromProps({
         </div>
         <div>
             <strong>Example:</strong>
-            <pre><code class="language-stscript">/char-edit name=John field=age 30</code></pre>
+            <pre><code class="language-stscript">/char-edit name=John field=Description A character description</code></pre>
         </div>
         <div>
             <strong>Field descriptions and examples:</strong>
